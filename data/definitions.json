@@ -1,0 +1,76 @@
+{
+    "definitions": [
+        {
+            "desc": "animal",
+            "type": "Animal"
+        },
+        {
+            "desc": "animal_plural",
+            "type": "Animal Plural"
+        },
+        {
+            "desc": "body",
+            "type": "Body Part"
+        },
+        {
+            "desc": "body_plural",
+            "type": "Body Part, Plural"
+        },
+        {
+            "desc": "food",
+            "type": "Type of Food"
+        },
+        {
+            "desc": "food_plural",
+            "type": "Type of Food, Plural"
+        },
+        {
+            "desc": "jj",
+            "type": "Adjective"
+        },
+        {
+            "desc": "liquid",
+            "type": "Type of Liquid"
+        },
+        {
+            "desc": "nn",
+            "type": "Noun"
+        },
+        {
+            "desc": "nns",
+            "type": "Plural Noun"
+        },
+        {
+            "desc": "rb",
+            "type": "Adverb"
+        },
+        {
+            "desc": "vb",
+            "type": "Verb, base form"
+        },
+        {
+            "desc": "vbd",
+            "type": "Verb, past tense"
+        },
+        {
+            "desc": "vbg",
+            "type": "Verb, gerund or present participle (ending in 'ing')"
+        },
+        {
+            "desc": "vbn",
+            "type": "Verb, past participle"
+        },
+        {
+            "desc": "vbz",
+            "type": "Verb, 3rd person singular present (ending in 's')"
+        },
+        {
+            "desc": "dd",
+            "type": "Time period"
+        },
+        {
+            "desc": "name",
+            "type": "Person's Name"
+        }
+    ]
+}
